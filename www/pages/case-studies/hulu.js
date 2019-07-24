@@ -35,7 +35,7 @@ export default () => {
         title={title}
         description="Find out how Hulu migrated to Next.js and modernized their fronted stack to ship code faster."
         image="/static/twitter-cards/hulu.png"
-        url="https://nexts.org/case-studies/hulu"
+        url="https://nextjs.org/case-studies/hulu"
         keywords="React, Migrate to Next.js, web applications, migration"
       />
       <div className="container">
